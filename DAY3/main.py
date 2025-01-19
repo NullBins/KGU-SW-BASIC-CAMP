@@ -1,1 +1,1 @@
-print("DAY3")
+print("기초라")
