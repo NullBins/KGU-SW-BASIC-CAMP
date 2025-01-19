@@ -3,7 +3,7 @@
 </div>
 
 ###### 2025 경기대학교 신입생 SW캠프 [ *Written by NullBins* ]
-📌 [ 2025 경기대학교 신입생 SW캠프 ] (2025. 01. 14 ~ 17.) 기간동안 배운 내용을 정리 및 기록할 예정입니다.
+📌 [ 2025 경기대학교 신입생 SW캠프 ] (2025. 01. 14 ~ 17.)
 
 ## 1일차 (2025-01-14)
 - 학습 내용: [DAY1](https://github.com/NullBins/KGU-SW-BASIC-CAMP/tree/main/DAY1)
