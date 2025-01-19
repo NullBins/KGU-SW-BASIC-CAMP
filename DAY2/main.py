@@ -1,1 +1,1 @@
-print("DAY2")
+print("너무")
